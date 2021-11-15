@@ -9,3 +9,7 @@ CMPINF0010 Final Lab, choosing the best Pittsburgh neighborhood
 
 - Pittsburgh public schools enrollment by neighboorhood, schools, and feeder patterns
 - https://data.wprdc.org/dataset/pittsburgh-public-schools-enrollment
+
+# Team Members
+- Sadhana Boddhula
+- Olivia Jefferson
