@@ -3,8 +3,8 @@ CMPINF0010 Final Lab, *best place to raise a family in the event of climate chan
 
 # Data Sets:
 - *Sustainability:*
-  - A community profile on Pittsburgh neighborhoods, 1974
-  - https://data.wprdc.org/dataset/a-community-profile-of-pittsburgh-neighborhoods-1974
+  - Allegheny County Toxics Release Inventory
+  - https://data.wprdc.org/dataset/toxic-release-inventory
 
 - *Transportation:*
   - Port authority bus stop usage
