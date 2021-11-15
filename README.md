@@ -1,4 +1,4 @@
-# Lightning
+# Team Lightning
 CMPINF0010 Final Lab, choosing the best Pittsburgh neighborhood
 # Data Sets:
 - A community profile on Pittsburgh neighborhoods, 1974
