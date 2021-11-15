@@ -1,5 +1,6 @@
 # Team Lightning
 CMPINF0010 Final Lab, *best place to raise a family in the event of climate change*
+
 # Data Sets:
 - *Sustainability:*
   - A community profile on Pittsburgh neighborhoods, 1974
@@ -12,6 +13,12 @@ CMPINF0010 Final Lab, *best place to raise a family in the event of climate chan
 - *Education:*
   - Pittsburgh public schools enrollment by neighboorhood, schools, and feeder patterns
   - https://data.wprdc.org/dataset/pittsburgh-public-schools-enrollment
+
+# Jupyter Notebooks:
+- (Sustainability notebook)
+- (Transportation notebook)
+- (Education notebook)
+- (Combined notebook)
 
 # Team Members
 - Sadhana Boddhula: sab345@pitt.edu
