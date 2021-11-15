@@ -14,5 +14,5 @@ CMPINF0010 Final Lab, *best place to raise a family in the event of climate chan
   - https://data.wprdc.org/dataset/pittsburgh-public-schools-enrollment
 
 # Team Members
-- Sadhana Boddhula
-- Olivia Jefferson
+- Sadhana Boddhula: sab345@pitt.edu
+- Olivia Jefferson: omj9@pitt.edu
