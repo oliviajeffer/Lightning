@@ -1,5 +1,5 @@
 # Team Lightning
-CMPINF0010 Final Lab, *best place to raise a family
+CMPINF0010 Final Lab, *best place to raise a family*
 
 # Data Sets:
 
